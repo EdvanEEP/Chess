@@ -2,11 +2,11 @@ GROUP 21 - CHESS GAME PROJECT
 
 # Group Members
 
-23050111002 - Mehmet ÖZDEMİR  
-23050121001 - Semi Bertuğ ÇAĞ  
-21050141024 - İrem ŞAHAR  
-21050111082 - Emine Sena TOP  
-17050111002 - Gürkan ER  
+230******** - Mehmet ÖZDEMİR  
+230******** - Semi Bertuğ ÇAĞ  
+210******** - İrem ŞAHAR  
+210******** - Emine Sena TOP  
+170******** - Gürkan ER  
 
 # GAME OVERVIEW AND USAGE DESCRIPTION
 
